@@ -8,6 +8,7 @@ gem 'twitter-bootstrap-rails'
 gem 'jquery-rails'
 gem 'devise-bootstrap-views', '~> 1.0'
 gem 'iex-ruby-client'
+gem 'hirb'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.4', '>= 5.2.4.1'
 # Use Puma as the app server
